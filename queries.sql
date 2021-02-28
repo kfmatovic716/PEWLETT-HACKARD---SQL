@@ -1,5 +1,7 @@
 -- Select the employee number, last name, first name, sex, and salary of all employees, ordered by employee number
-
+SELECT 
+FROM
+ORDER BY 
 
 -- Select the first name, last name, and hiring date for all employees hired in 1986 
 
